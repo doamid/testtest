@@ -1,0 +1,2 @@
+# testtest
+deneme serisi python
